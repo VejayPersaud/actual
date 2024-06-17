@@ -194,3 +194,6 @@ export const reportsBlue = colorPalette.blue400;
 export const reportsGreen = colorPalette.green400;
 export const reportsLabel = pageText;
 export const reportsInnerLabel = colorPalette.navy800;
+
+export const floatingActionBarBackground = colorPalette.gray900;
+export const floatingActionBarText = colorPalette.purple200;
